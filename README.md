@@ -13,7 +13,7 @@ This is a simple typing game I created to help users practice their typing skill
 
 ## How to Play
 
-1. Open the `index.html` file in your preferred web browser.
+1. Open the `type.html` file in your preferred web browser.
 2. Begin typing the word displayed on the screen.
 3. The word will change once you've successfully typed the current word.
 4. Continue typing words until the countdown reaches 0.
