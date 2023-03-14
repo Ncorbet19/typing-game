@@ -22,7 +22,7 @@ This is a simple typing game I created to help users practice their typing skill
 
 ## Customization
 
-If you want to add more words to the game, simply update the `words` array in the JavaScript section of the `index.html` file.
+If you want to add more words to the game, simply update the `words` array in the JavaScript section of the `type.html` file.
 
 ## Browser Compatibility
 
